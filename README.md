@@ -16,7 +16,7 @@ Explore my latest projects:
 2. **Portfolio Website**
    - Description: My personal portfolio website showcasing my skills and projects.
    - Technologies Used: HTML, CSS, JavaScript.
-   - Link: [Live Site]https://github.com/Ameki41983455/BIT222-Augustine-Emeki-web-portfolio/edit/main/README.md
+   - Link: [Live Site]https://github.com/Ameki41983455/BIT222-Augustine-Meki-web-portfolio/edit/main/README.md
 
 
 ### Skills
