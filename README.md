@@ -1,4 +1,4 @@
-# BIT222-Augustine-Emeki-web-portfolio
+# BIT222-Augustine-Meki-web-portfolio
 Austine Meki's Web Portfolio
 
 Welcome to Augustine Meki's web portfolio! This website showcases my projects, skills, and experience in the field of web development. Feel free to explore and get in touch if you have any questions or would like to collaborate.
